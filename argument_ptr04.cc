@@ -1,5 +1,5 @@
 // pointers as arguments:
-#include <stdio.h>
+#include <iostream>
 using namespace std;
 
 void increment_all (int* start, int* stop)
