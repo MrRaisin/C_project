@@ -1,6 +1,5 @@
 // pointers as arguments:
-// http://www.cplusplus.com/doc/tutorial/pointers/
-#include <iostream>
+#include <stdio.h>
 using namespace std;
 
 void increment_all (int* start, int* stop)

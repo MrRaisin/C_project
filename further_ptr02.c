@@ -1,6 +1,5 @@
 // more pointers
-// http://www.cplusplus.com/doc/tutorial/pointers/
-#include <iostream>
+#include <stdio.h>
 using namespace std;
 
 int main ()
